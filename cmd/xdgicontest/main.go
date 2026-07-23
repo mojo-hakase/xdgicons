@@ -9,7 +9,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/codelif/xdgicons"
+	"github.com/mojo-hakase/xdgicons"
 )
 
 func main() {
